@@ -1,0 +1,6 @@
+x = 2
+
+if x > 3:
+    print("X je větší než 3")
+if x < 3:
+    print("X je menší než tři")
